@@ -142,20 +142,22 @@
     "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.10/Utilla.zip"
   },
   {
-    "name": "BetterUI",
+    "name": "Shibagt dark menu",
     "author": "DevGuy",
     "version": "2.3.5",
     "dependencies": [
       "BepInEx"
     ],
-    "group": "Cheats"
+    "group": "Cheats",
+    "download_url": "https://example.com/BetterUI.zip"
   },
   {
     "name": "EnhancedParticles",
     "author": "ParticleMaster",
     "version": "1.1.0",
     "dependencies": [],
-    "group": "Cheats"
+    "group": "Cheats",
+    "download_url": "https://example.com/EnhancedParticles.zip"
   },
   {
     "name": "ImprovedLoot",
@@ -164,7 +166,8 @@
     "dependencies": [
       "Bepinject"
     ],
-    "group": "Cheats"
+    "group": "Cheats",
+    "download_url": "https://example.com/ImprovedLoot.zip"
   },
   {
     "name": "RealisticWeather",
@@ -173,7 +176,8 @@
     "dependencies": [
       "Rain Toggle"
     ],
-    "group": "Cheats"
+    "group": "Cheats",
+    "download_url": "https://example.com/RealisticWeather.zip"
   },
   {
     "name": "SuperStats",
@@ -183,6 +187,8 @@
       "Extenject",
       "HoneyLib"
     ],
-    "group": "Cheats"
-  }
+    "group": "Cheats",
+    "download_url": "https://example.com/SuperStats.zip"
+  },
+
 ]

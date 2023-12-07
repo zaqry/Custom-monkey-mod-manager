@@ -142,14 +142,16 @@
     "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.10/Utilla.zip"
   },
   {
-    "name": "Shibagt dark menu",
-    "author": "DevGuy",
-    "version": "2.3.5",
+    "name": "SubZero lite menu",
+    "author": "SubZero",
+    "version": "1.0.0",
     "dependencies": [
-      "BepInEx"
+      "BepInEx",
+      "Bepinject",
+      "Extenject"
     ],
     "group": "Cheats",
-    "download_url": "https://example.com/BetterUI.zip"
+    "download_url": "https://github.com/zaqry/SubZero-lite-menu/blob/5c2df6db98aafcbec83f39ad940d116848cb30eb/Sub_Lite_Menu%20(1).dll"
   },
   {
     "name": "EnhancedParticles",
